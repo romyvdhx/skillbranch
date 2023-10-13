@@ -1,0 +1,12 @@
+git clone link
+git status
+git add .
+git commit -m "message"
+git push
+git pull
+git branch name //branch maken
+git branch --l //overzicht
+git checkout name //switch naar die branch
+git merge name //merge branch name in de branch waar je in zit
+git branch -m oldname newname //rename branch
+git branch --delete name //delete branch
